@@ -1,0 +1,44 @@
+
+.header{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(218, 139, 139);
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.img img{
+   width: 20rem;
+   height: 20rem;
+   margin-right: 30px;
+
+}
+
+.inner-card>h3{
+  font-family: 'poppins', sans-serif ;
+  font-size: 18px;
+  font-weight: lighter;
+  /* letter-spacing: .15em; */
+  
+}
+
+span{
+    text-decoration: underline;
+    margin-left: 20px;
+   color: #918E9B;
+
+}
+
+.card{
+    display: flex;
+    margin: 50px 90px 70px 100px;
+
+}
+
+.inner-card{
+    font-size: 20px;
+}
+
+.dates{
+    font-weight: 800;
+}
